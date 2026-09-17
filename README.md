@@ -10,7 +10,7 @@ A responsive and interactive **Personal Budget Tracker Web Application** built w
 
 ## 📸 Application Preview
 
-![Personal Budget Tracker](screenshot.png)
+![Personal Budget Tracker](Screenshot.png)
 
 ---
 
